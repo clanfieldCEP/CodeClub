@@ -18,6 +18,6 @@ Term 1 - Curriculum
 - 11 Create Your Own Game
 
 Term 2 - Curriculum
--01 Make a Monster
--02 Sound Machine
--03 Frantic Felix
+- 01 Make a Monster
+- 02 Sound Machine
+- 03 Frantic Felix
