@@ -5,7 +5,7 @@ Originally based on the projects - http://projects.codeclub.org.uk/en-GB/index.h
 The Afterschool session uses this version (1.4) of scratch http://scratch.mit.edu/scratch_1.4/
 
 Term 1 - Curriculum
-- 01 Felix and Herbert
+- 01 [Felix and Herbert](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/01-Felix%20%26%20Herbert)
 - 02 Ghostbusters **MISSING**
 - 03 Fireworks
 - 04 Fruit Machine
