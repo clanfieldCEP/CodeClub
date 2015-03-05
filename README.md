@@ -17,7 +17,7 @@ To "Clone/Download/Copy"  this Repository to your RaspberryPI or other device, s
 
 #Term 1 - Curriculum
 - 01 [Felix and Herbert](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/01-Felix%20%26%20Herbert)
-- 02 [Ghostbusters](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/02%20-%20Ghostbusters)
+- 02 [Ghostbusters](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/02-Ghostbusters)
 - 03 [Fireworks](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/03-Fireworks)
 - 04 [Fruit Machine](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/04-Fruit%20Machine)
 - 05 [Fish Chomp](https://github.com/clanfieldCEP/CodeClub/tree/master/scratch14/05-Fish%20Chomp)
